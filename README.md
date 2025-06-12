@@ -14,6 +14,8 @@ This repository contains the foundational framework, mathematical models, and su
 - `/papers/` – Full LaTeX paper(s), including:
   - _The Role of π in Higher Dimensions and Quantum Physics_
   - _A Unified 4D Quantum Projection Framework of Space, Time, and Measurement_
+  - _Time as a Projection Rate: A 4D Quantum Framework for Temporal Emergence_
+  - _The 4D Quantum Projection Hypothesis: A Higher-Dimensional Resolution of Quantum Foundations_
 - `/diagrams/` – Theory visuals, spacetime diagrams, 4D models
 - `/notebooks/` – (Planned) Python or Jupyter simulations of tunneling, 4D interference
 - `/drafts/` – Raw notes, ideas in development
@@ -32,4 +34,4 @@ Dubai, UAE
 
 ---
 
-> For citations, reference DOI: [10.5281/zenodo.15626963](https://doi.org/10.5281/zenodo.15626963)
+> For citations, reference DOI: [10.5281/zenodo.15646962](https://doi.org/10.5281/zenodo.15646962)
